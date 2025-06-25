@@ -21,7 +21,7 @@ This project analyzes portfolio risk-return dynamics using PSX-listed stocks and
 - `code/` – Python script for preprocessing price data
   - `fix_prices.py`
 - `report/` – Final project report
-  - `ProjectReport.docx`, `ProjectReport.pdf`
+  - `ProjectReport.pdf`
 
 ## ✅ Features
 - Comparison of equal-weighted vs. optimized portfolios
